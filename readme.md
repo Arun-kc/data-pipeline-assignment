@@ -15,7 +15,7 @@ Design a system that combines a storage solution for social media data with Apac
 
 - AWS Lambda
 - AWS Glue
-- Pyspark, Boto3, Pands, Numpy
+- Pyspark, Boto3, Pandas, Numpy
 - Amazon Kinesis
 - S3 Bucket
 - AWS Sagemaker
